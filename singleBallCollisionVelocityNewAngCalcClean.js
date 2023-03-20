@@ -18,7 +18,7 @@ const ballRadius = 20;
 let collision = false;
 const lineWidth = 0;
 
-const angle0 = (140 / 180) * Math.PI;
+const angle0 = (150 / 180) * Math.PI;
 let angle1;
 
 let colLocRef;
